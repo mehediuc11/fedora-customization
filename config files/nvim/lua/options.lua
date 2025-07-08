@@ -26,7 +26,7 @@ vim.opt.hlsearch = true
 vim.opt.cursorline = true
 
 -- behavior setting
-vim.opt.clipboard:append({ 'unnamedplus' })
+vim.opt.clipboard:append('unnamedplus')
 
 -- display colorcolumn
 -- vim.opt.colorcolumn = "80"
